@@ -1,2 +1,1 @@
 # Bank
-Bank tizim
